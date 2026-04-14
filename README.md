@@ -28,7 +28,7 @@ The dashboard was created to explore:
 - Dashboard screenshot
 
 ## Dashboard Preview
-Add your screenshot here once uploaded.
+<img width="801" height="873" alt="retail-warehouse-analysis-dashboard" src="https://github.com/user-attachments/assets/25cf9dfe-1ec8-4573-bd99-5c1679a9fc1b" />
 
 ## Resume Description
 Developed an interactive Tableau dashboard analyzing retail and warehouse sales data to identify product performance trends, supplier contributions, and inventory inefficiencies.
